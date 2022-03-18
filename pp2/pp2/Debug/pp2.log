@@ -1,0 +1,5 @@
+﻿  pp2.cpp
+C:\Users\Дан\source\repos\pp2\pp2\pp2.cpp(24,19): warning C4473: "fprintf": передано недостаточно аргументов для строки формата
+C:\Users\Дан\source\repos\pp2\pp2\pp2.cpp(24,19): message : заполнители и их параметры ожидают переменное число аргументов в количестве 4, но было предоставлено 3
+C:\Users\Дан\source\repos\pp2\pp2\pp2.cpp(24,19): message : отсутствующий вариативный аргумент "4" требуется для строки форматирования "%d"
+  pp2.vcxproj -> C:\Users\Дан\source\repos\pp2\Debug\pp2.exe
